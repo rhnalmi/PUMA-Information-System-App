@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">PUMA IS</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Mayora">GEMASTIK or Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi is a program of the Indonesian Talent Development
+        Center, National Achievement Center, Ministry of Education, Culture, Research and Technology. This program aims to improve the competence of Indonesian
+        students, so that they are able to take the role as agents of change in advancing Information and Communication Technology and its utilization, both while
+        still in the study period and later after graduating.
+    </string>
+
+
+    <string name="Gemastik"> GEMASTIK or Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi is a program of the Indonesian Talent Development
+        Center, National Achievement Center, Ministry of Education, Culture, Research and Technology. This program aims to improve the competence of Indonesian
+        students, so that they are able to take the role as agents of change in advancing Information and Communication Technology and its utilization, both while
+        still in the study period and later after graduating.
+    </string>
+
+    <string name="Enigma">GEMASTIK or Pagelaran Mahasiswa Nasional Bidang Teknologi Informasi dan Komunikasi is a program of the Indonesian Talent Development
+        Center, National Achievement Center, Ministry of Education, Culture, Research and Technology. This program aims to improve the competence of Indonesian
+        students, so that they are able to take the role as agents of change in advancing Information and Communication Technology and its utilization, both while
+        still in the study period and later after graduating.
+    </string>
+
+
+    <string name="WebDesign">1. Fundamental HTML (HyperText Markup Language):
+- HTML serves as the foundation for every web page.
+- Used to create the basic structure of web documents, such as headings, paragraphs, and lists.
+
+2. CSS (Cascading Style Sheets):
+- CSS is utilized for designing the layout and appearance of web pages.
+- Enables the separation of structure and style, allowing flexibility and easy maintenance.
+
+3. Responsive Design:
+- Responsive design ensures optimal display on various devices and screen sizes.
+- Uses media queries and layout flexibility to create a good user experience across all devices.
+
+4. JavaScript:
+- Provides interactivity on web pages.
+- Used for manipulating the Document Object Model (DOM) and responding to user events.
+
+5. UX/UI Design:
+- User Experience (UX) focuses on how users interact with web pages.
+- User Interface (UI) focuses on visual design and interactive elements that enhance the user experience.
+
+6. Web Typography:
+- Font selection, size, and text arrangement are crucial for readability and aesthetics.
+- Understanding hierarchy and spacing to improve the reading experience.
+
+7. Web Images:
+- Image optimization to speed up page loading times.
+- Proper image formats and the use of alt attributes for accessibility.
+
+8. Version Control (Git):
+- Managing code changes with Git.
+- Collaboration and tracking changes for developer teams.
+
+9. Web Hosting and Domain:
+- Understanding hosting concepts and publishing websites.
+- Knowledge of domain names and DNS configuration.
+
+10. Security Best Practices:
+- Security is a top priority. Ensuring protection against attacks such as SQL injection and cross-site scripting (XSS).
+
+11. Browser Developer Tools:
+- Understanding and using browser developer tools for debugging and performance optimization.
+
+12. Trends and Innovation:
+- Staying up-to-date with the latest design trends and web technologies.
+- Engaging with the web community for knowledge exchange and experiences.
+    </string>
+
+    <string name="MoB">1. Understanding Behavior:
+- Understanding the fundamentals of human behavior and the factors that influence it.
+- Identifying the causes of behavior to design effective management strategies.
+
+2. Behavior Management Strategies:
+- Developing positive and supportive behavior management strategies.
+- Implementing positive reinforcement to strengthen desired behaviors.
+
+3. Functional Behavior Assessment (FBA):
+- Conducting a comprehensive evaluation to understand the function of behavior.
+- Applying interventions based on an understanding of what triggers and maintains the behavior.
+
+4. Positive Behavior Support (PBS):
+- Using a positive approach to understand and respond to behavior.
+- Focusing on preventing negative behaviors and promoting positive behaviors.
+
+5. Setting Expectations:
+- Establishing clear and measurable expectations for behavior.
+- Ensuring consistency in providing feedback and consequences.
+
+6. Communication and Relationship Building:
+- Building positive relationships with individuals to facilitate behavior management.
+- Emphasizing open communication and acceptance.
+
+7. Collaborative Problem Solving:
+- Using a collaborative approach to problem-solving for behavior.
+- Involving individuals in the problem-solving process.
+
+8. Data Collection and Analysis:
+- Collecting and analyzing behavioral data to identify patterns and trends.
+- Using data to make informed decisions in behavior management.
+
+9. Cultural Competence:
+- Understanding and appreciating cultural differences in behavior management.
+- Accommodating individual needs based on their cultural background.
+
+10. Crisis Intervention:
+- Developing skills to handle crisis situations related to behavior.
+- Focusing on the safety of the individual and others during a crisis.
+
+11. Ethics in Behavior Management:
+- Understanding and applying ethical principles in behavior management.
+- Upholding the rights, justice, and safety of individuals.
+    </string>
+
+    <string name="ProgrammingConcepts">1. Programming Paradigms:
+- Programming paradigms define the style and structure of coding.
+- Common paradigms include procedural, object-oriented, and functional programming.
+
+2. Variables and Data Types:
+- Variables store data, and data types define the kind of data a variable can hold.
+- Examples include integers, floats, strings, and booleans.
+
+3. Control Structures:
+- Control structures, like loops and conditionals, manage the flow of a program.
+- "if" statements, "for" loops, and "while" loops are examples.
+
+4. Functions and Methods:
+- Functions encapsulate reusable pieces of code.
+- Methods are functions associated with objects in object-oriented programming.
+
+5. Object-Oriented Programming (OOP):
+- OOP organizes code around objects, which encapsulate data and behavior.
+- Concepts include encapsulation, inheritance, and polymorphism.
+
+6. Arrays and Collections:
+- Arrays store multiple values of the same type.
+- Collections are dynamic structures holding various data types.
+
+7. Algorithms and Data Structures:
+- Algorithms are step-by-step procedures to solve problems.
+- Data structures organize and store data efficiently, e.g., arrays, linked lists, and trees.
+
+8. Error Handling:
+- Programming involves anticipating and handling errors.
+- Exception handling is a common practice to manage unexpected situations.
+
+9. Memory Management:
+- Efficient memory usage is crucial for program performance.
+- Languages may use automatic garbage collection or manual memory management.
+
+10. Concurrency and Parallelism:
+- Concurrency deals with managing multiple tasks at the same time.
+- Parallelism involves simultaneously executing tasks on multiple processors or cores.
+
+11. Version Control:
+- Version control systems like Git track changes in code.
+- Collaboration, history tracking, and code management are facilitated through version control.
+
+12. Software Development Life Cycle (SDLC):
+- SDLC outlines stages in software development, from planning to deployment.
+- Common models include waterfall, agile, and iterative development.
+
+13. Testing:
+- Testing ensures software functions correctly.
+- Unit testing, integration testing, and user acceptance testing are common types.
+
+14. Debugging:
+- Debugging is the process of identifying and fixing errors in code.
+- Tools like breakpoints and print statements assist in debugging..>
+    </string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+
+
+</resources>
